@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.box{
+    border: 1px solid #CBCBCB;
+border-radius: 6px;
+opacity: 1;
+top: 204px;
+left: 20px;
+width: 335px;
+height: 40px;
+}

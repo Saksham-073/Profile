@@ -1,0 +1,29 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "this is a profile site",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel ./public/index.html",
+    "build": "parcel build .public/index.html"
+  },
+  "keywords": [],
+  "author": "saksham jamwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saksham-073/ReactProject/issues"
+  },
+  "dependencies": {
+    "@fontsource/rubik": "^5.2.5",
+    "@tailwindcss/postcss": "^4.0.15",
+    "framer-motion": "^12.5.0",
+    "lucide-react": "^0.483.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^6.26.2",
+    "tailwindcss": "^4.0.15"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
